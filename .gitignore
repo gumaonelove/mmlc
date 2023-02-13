@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
+/competition_data_final_pqt/
+/.idea/
+/public_train.pqt
+/sample_submission.csv
+/submit_2.pqt
